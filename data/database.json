@@ -1,0 +1,22 @@
+[
+  {
+    "id": "inception-2010",
+    "title": "Inception",
+    "type": "Movie",
+    "year": 2010,
+    "genre": ["Sci-Fi", "Thriller"],
+    "poster": "url_to_poster.jpg",
+    "download_link": "url_to_file",
+    "description": "A thief who steals corporate secrets..."
+  },
+  {
+    "id": "breaking-bad-s1",
+    "title": "Breaking Bad",
+    "type": "Series",
+    "year": 2008,
+    "genre": ["Crime", "Drama"],
+    "poster": "url_to_poster.jpg",
+    "download_link": "url_to_file",
+    "description": "A high school chemistry teacher..."
+  }
+]
