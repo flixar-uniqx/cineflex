@@ -1,0 +1,8 @@
+{
+  "name": "CineCore Ultra-Scalable Platform",
+  "description": "A futuristic, microservices-driven movie and series platform with TMDb integration, SEO optimization, and an advanced administrative dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
